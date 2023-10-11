@@ -1,0 +1,21 @@
+﻿MRS V1.90
+
+【新增】
+1.新增GCC12工具链资源，RISC-V内核MCU工程支持选择默认的GCC8或切换到GCC12工具链进行编译
+2.新增无感远程协助功能。局域网、广域网下建立远程连接时免网络配置，支持远程目标调试、远程在线仿真、远程下载、远程IO信号控制、远程串口回显等功能(使用说明文档位置:\MounRiver_Studio\ExTool\MRS_SRA)
+3.新增编译后同时生成.HEX以及.BIN格式的输出文件功能
+
+【优化】
+1.更新MRS内置芯片(CH32F103/CH32F20X/CH32V003/CH32V103/CH32V20X/CH32V30X/CH32X035/CH57X/CH58X)工程模板
+2.WCH-LinkUtility软件升级到V1.80版本
+3.优化部分界面操作提示
+
+[Update Content]
+1. Add GCC12 toolchain resources, RISC-V kernel MCU project supports selecting the default GCC8 or switching to GCC12 toolchain for compilation
+2. Add a seamless remote assistance function. No network configuration is required when establishing remote connections under local and wide area networks. It supports functions such as remote target debugging, remote online simulation, remote download, remote IO signal control, and remote serial port echo(Instructions for use document location: MounRiver_Studio\ExTool\MRS_SRA)
+3. Add the function of generating output files in both. HEX and. BIN formats after compilation
+
+[Optimization]   
+1. Update the MRS built-in chip (CH32F103/CH32F20X/CH32V003/CH32V103/CH32V20X/CH32V30X/CH32X035/CH57X/CH58X) engineering template
+2. Upgrade WCH-LinkUtility software to V1.80 version
+3. Optimize some interface operation prompts
