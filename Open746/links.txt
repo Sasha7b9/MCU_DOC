@@ -1,0 +1,2 @@
+https://www.waveshare.com/wiki/Open746I-C
+https://www.waveshare.com/product/mcu-tools/development-boards/stm32-open/open746i-c-package-a.htm
