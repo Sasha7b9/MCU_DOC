@@ -1,0 +1,2 @@
+https://www.st.com/en/evaluation-tools/stm32f4discovery.html#documentation
+https://easycraft.by/nabor-stm32f4discovery-discovery
