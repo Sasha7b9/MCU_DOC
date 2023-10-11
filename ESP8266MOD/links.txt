@@ -1,3 +1,6 @@
 https://www.indiamart.com/proddetail/model-vendor-esp8266mod-2849145496630.html
 https://aliexpress.ru/item/1005004866229824.html?sku_id=12000030830480620
 https://www.amazon.com/HiLetgo-Internet-Development-Wireless-Micropython/dp/B010O1G1ES
+https://alexgyver.ru/lessons/esp8266/
+https://github.com/esp8266/Arduino/blob/master/doc/reference.rst
+https://arduino-esp8266.readthedocs.io/en/latest/
