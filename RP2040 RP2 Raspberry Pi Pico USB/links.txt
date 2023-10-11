@@ -1,0 +1,11 @@
+https://www.ebay.co.uk/itm/175693457458
+https://www.eelectronicparts.com/products/raspberry-pi-pico-type-c-16mb-microcontroller-rp2040-pi-dual-core-board-black
+https://aliexpress.ru/item/1005004306226739.html?sku_id=12000028696120381&spm=a2g2w.productlist.search_results.0.3ac64aa60R7Pcx
+
+Operation method for updating firmware:
+1. First, connect the other end of the TYPE-C interface USB cable to the computer;
+2. Press the BOOT button repeatedly;
+3. Depress the RST key;
+4. After one second, release the BOOT button;
+5. It will be instantly identified by the computer as a detachable hard drive;
+6. The detachable hard drive will appear; copy the file to be downloaded (burned) to it, and the core board will resume automatically.
