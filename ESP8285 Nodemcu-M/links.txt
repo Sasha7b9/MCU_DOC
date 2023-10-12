@@ -1,3 +1,8 @@
 https://aliexpress.ru/item/32831010840.html?spm=a2g2w.orderdetail.0.0.14a74aa6vs3iAX&sku_id=65035525841
 https://www.elecbee.com/ru-23343-ESP8285-Development-Board-Nodemcu-M-Based-On-ESP-M3-WiFi-Wireless-Module-Compatible-with-Nodemcu-Lua-V3
 https://doc.riot-os.org/group__cpu__esp8266.html
+https://en.wikipedia.org/wiki/ESP8266
+https://www.youtube.com/watch?v=bp7xIyZSJP0
+https://www.nodemcu.com/index_en.html
+https://www.nodemcu.com/index_en.html#fr_54747661d775ef1a3600009e
+https://github.com/nodemcu/nodemcu-firmware
